@@ -4,8 +4,8 @@ This repository contains public release firmware for Ascendance Systems devices.
 
 ## Choose The Correct UF2
 
-- `NGPC_DV.uf2` - Neo Geo Pocket Color digital-video Consolizer firmware
-- `GBA_DV.uf2` - Game Boy Advance digital-video Consolizer firmware
+- `NGPC_DV.uf2` - Neo Geo Pocket Color digital-video firmware
+- `GBA_DV.uf2` - Game Boy Advance digital-video firmware
 - `DAC.uf2` - DAC firmware
 
 ## Update Steps
@@ -25,4 +25,4 @@ This repository contains public release firmware for Ascendance Systems devices.
 - If the device does not reboot after copying, unplug it and plug it back in normally.
 - `SHA256SUMS.txt` contains checksums for verifying downloaded files.
 
-These release UF2 files are signed by Ascendance Systems for supported secure-boot devices.
+These release UF2 files are signed by Ascendance Systems for supported devices.
